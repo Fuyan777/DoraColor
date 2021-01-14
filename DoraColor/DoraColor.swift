@@ -8,7 +8,9 @@
 import UIKit
 
 public extension UIColor {
-    static var doraColor: UIColor = .init(hex: "0095b6")
+    static var doraColor: UIColor = .init(hex: "17A8F4")
+    static var doraRingColor: UIColor = .init(hex: "FEE809")
+    static var doraNoseColor: UIColor = .init(hex: "E3210D")
 }
 
 private extension UIColor {
