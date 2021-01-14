@@ -16,7 +16,7 @@ class ViewController: UIViewController {
 
 ## Installation
 ### CocoaPods
-- Add pod 'BondiBlue' to your Podfile.
+- Add pod 'DoraColor' to your Podfile.
 - Run pod update.
 
 ## Author
